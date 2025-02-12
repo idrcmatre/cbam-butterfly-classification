@@ -1,0 +1,9 @@
+images_small/
+*.accdb
+.ipynb_checkpoints/
+*.DS_Store
+*.pyc
+__pycache__/
+images_small/
+data/
+.ipynb_checkpoints/
