@@ -16,9 +16,15 @@ This deep learning project classifies butterfly images into species, genus, subf
 - **Top-5 Accuracy**: 95.38%  
 - Dataset: 200 Butterfly Species
 
-## 📂 Structure
+## 📂 Project Structure
 
-├── notebooks/ ├── data/ ├── .gitignore ├── README.md ├── LICENSE
+    cbam-butterfly-classification/
+    ├── notebooks/             # Jupyter Notebook (.ipynb)
+    ├── data/                  # Dataset files (labels, hierarchy)
+    ├── .gitignore             # Ignore rules
+    ├── README.md              # Project overview
+    ├── LICENSE                # MIT License
+
 
 ## 🧰 Tech Stack
 
